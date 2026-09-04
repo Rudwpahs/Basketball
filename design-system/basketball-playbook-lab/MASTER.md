@@ -7,7 +7,7 @@
 ---
 
 **Project:** Basketball Playbook Lab
-**Generated:** 2026-07-26 08:55:51
+**Design snapshot:** 2026-07-26 08:55:51
 **Category:** Professional sports learning tool
 **Design Dials:** Variance 5/10 (Balanced / Modern) | Motion 5/10 (Standard) | Density 8/10 (Dense / Dashboard)
 
